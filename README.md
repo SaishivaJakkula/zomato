@@ -1,27 +1,107 @@
 # zomato
 Exploratory Data Analysis (EDA) on Zomato restaurant data. Includes data cleaning, visualization, rating analysis, cuisine trends, cost insights, and location-wise patterns.
 
-⭐ Zomato EDA Project (Short & Sweet Theory Version)
+# 🍽️ Zomato EDA — A Dark & Meaningful Exploration
 
-I performed an Exploratory Data Analysis on Zomato restaurant data to understand restaurant performance, customer preferences, and pricing patterns.
+I explored the Zomato restaurant dataset not just to analyze numbers,  
+but to uncover the hidden patterns behind human choices —  
+the taste of a city, the comfort we seek, and the story each restaurant quietly carries.
 
-1. Data Understanding
-Explored dataset structure, identified key columns like ratings, cost, cuisine type, service features, and location.
+## 1.  Data Understanding  
+Unveiled the raw structure of the data — ratings, costs, cuisines, areas —  
+each column holding a fragment of truth about customer behavior and food culture.
 
-2. Data Cleaning
-Handled missing values, removed unnecessary columns, standardized column names, and ensured consistent data formats.
+## 2. 🧹 Data Cleaning  
+Removed noise, handled missing pieces, and brought clarity to messy values.  
+The dataset became sharper, calmer, and ready to reveal its secrets.
 
-3. Data Preparation
-Organized the dataset, grouped restaurants by type, area, service features, and cuisine categories to identify patterns.
+## 3. 🗂️ Data Preparation  
+Grouped restaurants by type, cuisine, service features, and location.  
+Turned scattered information into a meaningful, structured landscape.
 
-4. Exploratory Data Analysis
-Analyzed rating distribution, cost patterns, cuisine popularity, and area-wise restaurant density.
-Studied the impact of online ordering and table booking on customer ratings and popularity.
-Compared rating trends across different restaurant types and cuisines.
+## 4. 📊 Exploratory Data Analysis  
+Visualized rating patterns, cost distributions, cuisine popularity,  
+and area-wise restaurant density.  
+Measured the impact of online ordering and table booking  
+on customer satisfaction and restaurant popularity.
 
-5. Insights Generation
-Identified most popular cuisines, top restaurant areas, key pricing trends, and service features affecting customer satisfaction.
-Learned that cost doesn’t directly determine ratings—service quality and convenience matter more.
+## 5. 🔍 Key Insights  
+- Price alone doesn't define success — service quality does.  
+- Online-order and table-booking options improve customer engagement.  
+- Certain cuisines dominate demand and ratings.  
+- A few areas act as the true heartbeat of the city's food culture.
 
-6. Conclusion
-The EDA helped uncover customer behavior trends, service-related impacts, and restaurant performance insights that can support better decision-making for restaurants and food platforms.
+## 6. 🏁 Conclusion  
+This EDA wasn’t just about restaurants.  
+It was about people — their habits, their cravings,  
+and the choices they make when they seek comfort in food.
+# VISUAL SYMBOLS
+
+████  ████  ████  ████  
+Bar Graph Symbol
+
+▇▇▇▇▇▇▇▇▇▇  
+Block Bar Symbol
+
+▒▒▒▒▒▒▒▒▒▒  
+Light Filled Bar
+
+░░░░░░░░░░  
+Empty Bar Symbol
+
+▀▀▀▀▀▀▀▀▀▀  
+Top Line Visualization
+
+▄▄▄▄▄▄▄▄▄▄  
+Bottom Filled Bar
+
+██████████  
+Full Block Bar
+
+▁▂▃▄▅▆▇█  
+Smooth Increasing Bars
+
+█▇▆▅▄▃▂▁  
+Smooth Decreasing Bars
+
+━┳━┳━┳━┳━  
+Line Graph Symbol
+
+╔═══╗  
+║███║  
+╚═══╝  
+Box Plot / Box Representation
+
+○ ○ ○ ○ ○  
+Scatter Plot (Circle Points)
+
+● ● ● ● ●  
+Scatter Plot (Filled Points)
+
+◉◎◉◎◉  
+Alternative Circular Points
+
+▓▓░░▓▓░░▓▓  
+Heatmap Pattern
+
+░▒▓█▓▒░  
+Gradient Visual (Heatmap Look)
+
+◔ ◑ ◕ ●  
+Pie Chart Style Sequence
+
+◴ ◷ ◶ ◵  
+Rotating Pie Chart Frames
+
+□ ■ □ ■ □  
+Square-Based Visual Representation
+
+▤▤▤▤▤  
+Grid Pattern (Matrix / Heatmap)
+
+＊ ＊ ＊ ＊ ＊  
+Star Scatter Pattern
+
+
+
+
