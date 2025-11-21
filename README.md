@@ -1,8 +1,7 @@
 # zomato
 Exploratory Data Analysis (EDA) on Zomato restaurant data. Includes data cleaning, visualization, rating analysis, cuisine trends, cost insights, and location-wise patterns.
 
-# 🍽️ Zomato EDA — A Dark & Meaningful Exploration
-
+# 🍽️ Zomato EDA 
 I explored the Zomato restaurant dataset not just to analyze numbers,  
 but to uncover the hidden patterns behind human choices —  
 the taste of a city, the comfort we seek, and the story each restaurant quietly carries.
